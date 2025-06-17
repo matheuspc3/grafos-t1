@@ -1,0 +1,2 @@
+Número de componentes: 1
+Componente 1: tamanho=5, vértices=[1, 2, 5, 3, 4]
